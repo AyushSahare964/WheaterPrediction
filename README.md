@@ -1,4 +1,5 @@
 🌪️ Wind Flow & Vorticity Visualizer
+
 This Python project visualizes wind flow on a satellite map using wind inputs from the four cardinal directions. It calculates vorticity (ωz) to interpret weather conditions and shows animated particles simulating airflow.
 
 🔍 Key Features
