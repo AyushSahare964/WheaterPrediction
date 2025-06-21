@@ -1,5 +1,4 @@
 🌪️ Wind Flow & Vorticity Visualizer
-
 This Python project visualizes wind flow on a satellite map using wind inputs from the four cardinal directions. It calculates vorticity (ωz) to interpret weather conditions and shows animated particles simulating airflow.
 
 🔍 Key Features
@@ -27,10 +26,7 @@ It helps identify cyclones (positive), calm/stable zones (near-zero), and high-p
 🛠️ Usage
 Run the script:
 
-bash
-Copy
-Edit
-python wind_vorticity_visualizer.py
+python index.py
 Input:
 
 Region name, latitude & longitude
@@ -49,5 +45,5 @@ Weather report based on vorticity
 
 pip install matplotlib numpy cartopy
 👨‍💻 Author
-Created by Ayush Sahare
+Created by Ayush Mahendra Sahare
 Inspired by real-time weather dynamics and fluid rotation concepts.
